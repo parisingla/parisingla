@@ -1,4 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+# Hi, I'm Pari Singla 👋
+
+### Computer Science Undergraduate | Full Stack Developer | AI Enthusiast
+
+> Building Solutions. Chasing Impact. Creating Memories.
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about Web Development and AI
+- 🏆 Hackathon Builder
+- 🌱 Always Learning
+- 🎯 Focused on creating meaningful impact through technology
+
+---
+
+## 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • React • Node.js • Python • Git • GitHub
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/pari-singla-10745a382
+
 
 <!--
 **parisingla/parisingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
