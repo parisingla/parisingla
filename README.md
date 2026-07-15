@@ -27,7 +27,7 @@ HTML • CSS • JavaScript • React • Node.js • Python • Git • GitHub
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/pari-singla-10745a382
+- LinkedIn: www.linkedin.com/in/pari-singla
 
 
 <!--
